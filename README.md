@@ -33,6 +33,8 @@ Encrypt/Decrypt files using AES encryption https://gallery.technet.microsoft.com
 
 Get the status of A/V local or remote https://gallery.technet.microsoft.com/scriptcenter/Get-the-status-of-4b748f25
 
+List SPNs https://gallery.technet.microsoft.com/List-all-SPNs-Used-in-your-e0c6267a
+
 
 Yara--
 
