@@ -43,8 +43,11 @@ Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/abou
 Loki https://github.com/Neo23x0/Loki 
 
 
+
 Python--
+
 Kill Chain Fuzzer https://github.com/SafeBreach-Labs/blog-snippets/blob/master/killchainfuzzer.py
+
 
 Misc--
 
