@@ -21,6 +21,18 @@ RVMI Rekall https://github.com/fireeye/rvmi-rekall
 
 List Kerberos Tickets https://gallery.technet.microsoft.com/scriptcenter/List-All-Cached-Kerberos-5ba41829
 
+List local admins https://gallery.technet.microsoft.com/scriptcenter/ed4a0cb7-603c-488d-afeb-194b7a60f42f
+
+Get AD Trust Topology https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf
+
+ADFS Security Audit Events Parser https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf
+
+Self Signign Certs https://gallery.technet.microsoft.com/scriptcenter/Get-AD-Trust-Topology-f8f2d1d7
+
+Encrypt/Decrypt files using AES encryption https://gallery.technet.microsoft.com/scriptcenter/EncryptDecrypt-files-use-65e7ae5d
+
+Get the status of A/V local or remote https://gallery.technet.microsoft.com/scriptcenter/Get-the-status-of-4b748f25
+
 
 Yara--
 
@@ -35,3 +47,6 @@ Misc--
 PS to exe https://github.com/interference-security/PS2EXE
 
 YARA signature to check for DEP and ASLR https://summitroute.com/blog/2017/07/24/yara_sigs_for_security_best_practices/
+
+
+
