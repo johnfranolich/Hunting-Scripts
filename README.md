@@ -29,6 +29,7 @@ Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/abou
 Loki https://github.com/Neo23x0/Loki 
 
 
+
 Misc--
 PS to exe https://github.com/interference-security/PS2EXE
 
