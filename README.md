@@ -15,6 +15,10 @@ DeepBlue CLI https://github.com/sans-blue-team/DeepBlueCLI
 
 Jason Fossen's https://github.com/EnclaveConsulting/SANS-SEC505
 
+Flare http://boxstarter.org/package/url?https://raw.githubusercontent.com/fireeye/flare-vm/master/flarevm_malware.ps1 https://github.com/fireeye/flare-vm
+
+RVMI Rekall https://github.com/fireeye/rvmi-rekall
+
 
 Yara--
 
