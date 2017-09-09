@@ -1,2 +1,2 @@
-# Hunting-Scritps
-A collection of hunting and blue team scripts
+# Hunting-Scripts
+A collection of hunting and blue team scripts; mostly others.
