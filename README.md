@@ -19,9 +19,16 @@ Flare http://boxstarter.org/package/url?https://raw.githubusercontent.com/fireey
 
 RVMI Rekall https://github.com/fireeye/rvmi-rekall
 
+List Kerberos Tickets https://gallery.technet.microsoft.com/scriptcenter/List-All-Cached-Kerberos-5ba41829
+
 
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
 
 Loki https://github.com/Neo23x0/Loki 
+
+
+Misc--
+PS to exe https://github.com/interference-security/PS2EXE
+YARA signature to check for DEP and ASLR https://summitroute.com/blog/2017/07/24/yara_sigs_for_security_best_practices/
