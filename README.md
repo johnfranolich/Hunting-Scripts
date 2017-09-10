@@ -46,6 +46,8 @@ Loki https://github.com/Neo23x0/Loki
 
 Python--
 
+Script for malware analysis https://github.com/beenuar/Py-DarkC0de/blob/master/analyse_malware.py
+
 Make your own Volatility plug-in https://github.com/iAbadia/Volatility-Plugin-Tutorial
 
 Kill Chain Fuzzer https://github.com/SafeBreach-Labs/blog-snippets/blob/master/killchainfuzzer.py
