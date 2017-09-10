@@ -3,7 +3,7 @@ A collection of hunting and blue team scripts; mostly others.
 
 PowerShell--
 
-Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/Kerberos-Golden-Ticket-b4814285
+Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/Kerberos-Golden-Ticket-b4814285 & https://github.com/spohara79/TGT---Golden-Silver-Ticket
 
 Skeleton Key scanner https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73
 
@@ -58,6 +58,8 @@ PS to exe https://github.com/interference-security/PS2EXE
 YARA signature to check for DEP and ASLR https://summitroute.com/blog/2017/07/24/yara_sigs_for_security_best_practices/
 
 CyLR CDQR Forensics Virtual Machine (CCF-VM) https://github.com/rough007/CCF-VM (a-z - endpoint IR collection to dbase backend)
+
+Threat Hunting Playbook https://github.com/Kathayra/ThreatHunter-Playbook TH tracking https://github.com/Kathayra/HT-Trackr
 
 
 
