@@ -1,5 +1,5 @@
 # Hunting-Scripts
-A collection of hunting and blue team scripts; mostly others.
+A collection of hunting, blue team scripts and tools ; mostly others.
 
 PowerShell--
 
