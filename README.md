@@ -46,6 +46,8 @@ Loki https://github.com/Neo23x0/Loki
 
 Python--
 
+Make your own Volatility plug-in https://github.com/iAbadia/Volatility-Plugin-Tutorial
+
 Kill Chain Fuzzer https://github.com/SafeBreach-Labs/blog-snippets/blob/master/killchainfuzzer.py
 
 
