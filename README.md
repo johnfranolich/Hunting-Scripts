@@ -55,5 +55,7 @@ PS to exe https://github.com/interference-security/PS2EXE
 
 YARA signature to check for DEP and ASLR https://summitroute.com/blog/2017/07/24/yara_sigs_for_security_best_practices/
 
+CyLR CDQR Forensics Virtual Machine (CCF-VM) https://github.com/rough007/CCF-VM (a-z - endpoint IR collection to dbase backend)
+
 
 
