@@ -52,6 +52,8 @@ Make your own Volatility plug-in https://github.com/iAbadia/Volatility-Plugin-Tu
 
 Kill Chain Fuzzer https://github.com/SafeBreach-Labs/blog-snippets/blob/master/killchainfuzzer.py
 
+FastIR https://github.com/SekoiaLab/Fastir_Collector
+
 
 Misc--
 
