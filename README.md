@@ -65,5 +65,7 @@ Threat Hunting Playbook https://github.com/Kathayra/ThreatHunter-Playbook TH tra
 
 Android Vul tester https://github.com/AndroidVTS/android-vts 
 
+GRR write up https://chip-dfir.techanarchy.net/?p=395 
+
 
 
