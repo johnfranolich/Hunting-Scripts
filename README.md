@@ -39,6 +39,8 @@ List SPNs https://gallery.technet.microsoft.com/List-all-SPNs-Used-in-your-e0c62
 
 Invoke web request detection https://gist.github.com/Centurion89/33b9517b75d238b59fd85fd060514279
 
+Another PS list https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors
+
 
 Yara--
 
