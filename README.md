@@ -15,6 +15,8 @@ DeepBlue CLI https://github.com/sans-blue-team/DeepBlueCLI
 
 Jason Fossen's https://github.com/EnclaveConsulting/SANS-SEC505
 
+Detects memory-only CLR (.NET) modules https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58
+
 Flare http://boxstarter.org/package/url?https://raw.githubusercontent.com/fireeye/flare-vm/master/flarevm_malware.ps1 https://github.com/fireeye/flare-vm
 
 RVMI Rekall https://github.com/fireeye/rvmi-rekall
@@ -35,6 +37,8 @@ Get the status of A/V local or remote https://gallery.technet.microsoft.com/scri
 
 List SPNs https://gallery.technet.microsoft.com/List-all-SPNs-Used-in-your-e0c6267a
 
+Invoke web request detection https://gist.github.com/Centurion89/33b9517b75d238b59fd85fd060514279
+
 
 Yara--
 
@@ -42,7 +46,9 @@ Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/abou
 
 Loki https://github.com/Neo23x0/Loki 
 
+Entropy of PE files https://cyberdefenses.com/yara-entropy-bit-math/
 
+Rule for CCleaner https://blog.nviso.be/2017/09/21/yara-rules-for-ccleaner-5-33/
 
 Python--
 
@@ -68,6 +74,8 @@ CyLR CDQR Forensics Virtual Machine (CCF-VM) https://github.com/rough007/CCF-VM 
 Threat Hunting Playbook https://github.com/Kathayra/ThreatHunter-Playbook TH tracking https://github.com/Kathayra/HT-Trackr
 
 Android Vul tester https://github.com/AndroidVTS/android-vts 
+
+Sysmon config https://github.com/SwiftOnSecurity/sysmon-config
 
 GRR write up https://chip-dfir.techanarchy.net/?p=395 
 
