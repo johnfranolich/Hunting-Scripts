@@ -7,6 +7,8 @@ Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/
 
 Skeleton Key scanner https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73
 
+Detect ruler attacks in Exchange and DC logs https://sensepost.com/blog/2017/notruler-turning-offence-into-defence/ 
+
 A PowerShell script to interact with the MITRE ATT&CK Framework via its own API  https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI
 
 Power Forensics https://github.com/Invoke-IR/PowerForensics
