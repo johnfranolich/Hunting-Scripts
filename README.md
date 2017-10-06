@@ -43,6 +43,8 @@ Invoke web request detection https://gist.github.com/Centurion89/33b9517b75d238b
 
 Another PS list https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors
 
+Managing PowerShell in a modern corporate environment https://www.nccgroup.trust/uk/our-research/managing-powershell-in-a-modern-corporate-environment/
+
 
 Yara--
 
