@@ -92,6 +92,8 @@ Sysmon config https://github.com/SwiftOnSecurity/sysmon-config
 
 GRR write up https://chip-dfir.techanarchy.net/?p=395 
 
+Detect dll hijacking https://github.com/adamkramer/dll_hijack_detect
+
 
 Deception -- It is all about the buzz
 
