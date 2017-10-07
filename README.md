@@ -66,6 +66,12 @@ Kill Chain Fuzzer https://github.com/SafeBreach-Labs/blog-snippets/blob/master/k
 
 FastIR https://github.com/SekoiaLab/Fastir_Collector
 
+Mystique - enterprise malicoius mutex detection https://github.com/MinervaLabsResearch/Mystique
+
+SSDeep Elastic https://github.com/intezer/ssdeep-elastic
+
+Memory Patch detector https://github.com/intezer/MemoryPatchDetector
+
 
 Misc--
 
