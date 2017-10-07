@@ -56,6 +56,7 @@ Entropy of PE files https://cyberdefenses.com/yara-entropy-bit-math/
 
 Rule for CCleaner https://blog.nviso.be/2017/09/21/yara-rules-for-ccleaner-5-33/
 
+
 Python--
 
 Script for malware analysis https://github.com/beenuar/Py-DarkC0de/blob/master/analyse_malware.py
@@ -99,3 +100,9 @@ Emulate VM enviromnts https://github.com/adamkramer/rapid_env
 PAfish - Testing tool to emulate an infection https://github.com/a0rtega/pafish
 
 https://canarytokens.org/generate 
+
+
+other lists --
+https://github.com/rshipp/awesome-malware-analysis
+
+
