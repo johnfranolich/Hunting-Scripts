@@ -92,4 +92,8 @@ Sysmon config https://github.com/SwiftOnSecurity/sysmon-config
 GRR write up https://chip-dfir.techanarchy.net/?p=395 
 
 
+Deception -- It is all about the buzz
 
+Emulate VM enviromnts https://github.com/adamkramer/rapid_env
+
+PAfish - Testing tool to emulate an infection https://github.com/a0rtega/pafish
