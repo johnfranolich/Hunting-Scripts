@@ -97,3 +97,5 @@ Deception -- It is all about the buzz
 Emulate VM enviromnts https://github.com/adamkramer/rapid_env
 
 PAfish - Testing tool to emulate an infection https://github.com/a0rtega/pafish
+
+https://canarytokens.org/generate 
