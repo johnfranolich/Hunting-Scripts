@@ -45,6 +45,8 @@ Another PS list https://www.peerlyst.com/posts/resource-infosec-powershell-tools
 
 Managing PowerShell in a modern corporate environment https://www.nccgroup.trust/uk/our-research/managing-powershell-in-a-modern-corporate-environment/
 
+Detect PS obfuscation https://github.com/jaapbrasser/Events/blob/master/2017-09-01_BSidesAms2017/Demo/Demo2.ps1
+
 
 Yara--
 
