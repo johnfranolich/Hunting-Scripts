@@ -96,6 +96,8 @@ GRR write up https://chip-dfir.techanarchy.net/?p=395
 
 Detect dll hijacking https://github.com/adamkramer/dll_hijack_detect
 
+Detection mapped to Mitre Matrix https://github.com/redcanaryco/atomic-red-team
+
 
 Deception -- It is all about the buzz
 
