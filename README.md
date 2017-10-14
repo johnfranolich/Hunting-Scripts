@@ -58,6 +58,8 @@ Entropy of PE files https://cyberdefenses.com/yara-entropy-bit-math/
 
 Rule for CCleaner https://blog.nviso.be/2017/09/21/yara-rules-for-ccleaner-5-33/
 
+Detect MimiK golden ticket https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/
+
 
 Python--
 
