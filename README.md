@@ -17,7 +17,7 @@ DeepBlue CLI https://github.com/sans-blue-team/DeepBlueCLI
 
 Jason Fossen's https://github.com/EnclaveConsulting/SANS-SEC505
 
-Detects memory-only CLR (.NET) modules https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58
+PS script to detects memory-only CLR (.NET) modules https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58 
 
 Flare http://boxstarter.org/package/url?https://raw.githubusercontent.com/fireeye/flare-vm/master/flarevm_malware.ps1 https://github.com/fireeye/flare-vm
 
