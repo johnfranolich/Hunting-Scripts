@@ -77,6 +77,8 @@ SSDeep Elastic https://github.com/intezer/ssdeep-elastic
 
 Memory Patch detector https://github.com/intezer/MemoryPatchDetector
 
+ Script to compare your similar Linux cloud application servers with each other to discover possible indications of compromise. https://github.com/morphuslabs/distinct
+
 
 Misc--
 
