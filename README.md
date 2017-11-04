@@ -47,6 +47,10 @@ Managing PowerShell in a modern corporate environment https://www.nccgroup.trust
 
 Detect PS obfuscation https://github.com/jaapbrasser/Events/blob/master/2017-09-01_BSidesAms2017/Demo/Demo2.ps1 vid https://www.youtube.com/watch?v=WOC8vC2KoNs&list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB&index=12
 
+PoSH IR and PS https://github.com/WiredPulse/PoSh-R2 
+
+PS hash compare, find bad CCleaner example, net conns http://cyberfibers.com/category/powershell/ 
+
 
 Yara--
 
