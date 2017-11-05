@@ -51,6 +51,12 @@ PoSH IR and PS https://github.com/WiredPulse/PoSh-R2
 
 PS hash compare, find bad CCleaner example, net conns http://cyberfibers.com/category/powershell/ 
 
+EternalBlue vul scan https://gallery.technet.microsoft.com/scriptcenter/EternalBlue-Vulnerability-bf3ad11d
+
+Generate Applocker rule based on hash https://gallery.technet.microsoft.com/scriptcenter/Generate-AppLocker-baaa9278
+
+Check Autoruns at bootup https://gallery.technet.microsoft.com/scriptcenter/Malware-detection-and-995f01eb
+
 
 Yara--
 
