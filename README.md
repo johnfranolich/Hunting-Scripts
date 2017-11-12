@@ -57,6 +57,8 @@ Generate Applocker rule based on hash https://gallery.technet.microsoft.com/scri
 
 Check Autoruns at bootup https://gallery.technet.microsoft.com/scriptcenter/Malware-detection-and-995f01eb
 
+CERT diff https://isc.sans.edu/forums/diary/Keep+An+Eye+on+your+Root+Certificates/23030/
+
 
 Yara--
 
