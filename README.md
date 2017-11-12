@@ -70,6 +70,8 @@ Rule for CCleaner https://blog.nviso.be/2017/09/21/yara-rules-for-ccleaner-5-33/
 
 Detect MimiK golden ticket https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/
 
+HEX to assembly https://haiderm.com/convert-hex-assembly-using-simple-python-script/
+
 
 Python--
 
