@@ -97,6 +97,8 @@ Phishing catcher using Certstream (https://certstream.calidog.io/)  https://gith
 
 Leak File Analyzer https://github.com/Neo23x0/radiocarbon
 
+Find miners https://github.com/wrinkl3/MineSweepR
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
