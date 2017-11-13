@@ -121,6 +121,8 @@ Detect dll hijacking https://github.com/adamkramer/dll_hijack_detect
 
 Detection mapped to Mitre Matrix https://github.com/redcanaryco/atomic-red-team
 
+.NET runtine inspector https://github.com/enkomio/shed
+
 
 Deception -- It is all about the buzz
 
