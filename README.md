@@ -125,6 +125,7 @@ Detection mapped to Mitre Matrix https://github.com/redcanaryco/atomic-red-team
 
 .NET runtine inspector https://github.com/enkomio/shed
 
+harden windows https://github.com/securitywithoutborders/hardentools/releases/tag/v1.0
 
 Deception -- It is all about the buzz
 
