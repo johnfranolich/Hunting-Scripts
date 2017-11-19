@@ -59,6 +59,8 @@ Check Autoruns at bootup https://gallery.technet.microsoft.com/scriptcenter/Malw
 
 CERT diff https://isc.sans.edu/forums/diary/Keep+An+Eye+on+your+Root+Certificates/23030/
 
+fake sandbox https://github.com/Phoenix1747/fake-sandbox
+
 
 Yara--
 
@@ -127,6 +129,9 @@ Detection mapped to Mitre Matrix https://github.com/redcanaryco/atomic-red-team
 Deception -- It is all about the buzz
 
 Emulate VM enviromnts https://github.com/adamkramer/rapid_env
+
+test a sandox - PoC malware with good intentions https://github.com/LordNoteworthy/al-khaser
+
 
 Pafish - Testing tool to emulate an infection https://github.com/a0rtega/pafish
 
