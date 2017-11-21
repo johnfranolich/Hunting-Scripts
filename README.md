@@ -61,6 +61,8 @@ CERT diff https://isc.sans.edu/forums/diary/Keep+An+Eye+on+your+Root+Certificate
 
 fake sandbox https://github.com/Phoenix1747/fake-sandbox
 
+Various PS https://github.com/WiredPulse/PowerShell
+
 
 Yara--
 
