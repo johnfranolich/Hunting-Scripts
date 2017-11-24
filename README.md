@@ -63,6 +63,8 @@ fake sandbox https://github.com/Phoenix1747/fake-sandbox
 
 Various PS https://github.com/WiredPulse/PowerShell
 
+Hunt PS scripts https://github.com/DLACERT/ThreatHunting
+
 
 Yara--
 
