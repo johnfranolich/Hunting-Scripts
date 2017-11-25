@@ -109,6 +109,8 @@ Find miners https://github.com/wrinkl3/MineSweepR
 
 Inspect PDFs https://github.com/jesparza/peepdf
 
+User simulation https://github.com/cmu-sei/usersim
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
