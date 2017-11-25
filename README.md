@@ -80,6 +80,8 @@ Detect MimiK golden ticket https://blog.didierstevens.com/2016/08/12/mimikatz-go
 
 HEX to assembly https://haiderm.com/convert-hex-assembly-using-simple-python-script/
 
+Bin/API analysis including FN2Yara https://github.com/cmu-sei/pharos
+
 
 Python--
 
