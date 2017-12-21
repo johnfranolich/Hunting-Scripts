@@ -67,6 +67,8 @@ Hunt PS scripts https://github.com/DLACERT/ThreatHunting
 
 Detect PTH https://github.com/cyberark/ketshash
 
+Detect shadow admins https://github.com/cyberark/ACLight
+
 
 Yara--
 
