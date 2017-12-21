@@ -65,6 +65,8 @@ Various PS https://github.com/WiredPulse/PowerShell
 
 Hunt PS scripts https://github.com/DLACERT/ThreatHunting
 
+Detect PTH https://github.com/cyberark/ketshash
+
 
 Yara--
 
