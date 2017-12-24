@@ -152,6 +152,10 @@ Pafish - Testing tool to emulate an infection https://github.com/a0rtega/pafish
 
 https://canarytokens.org/generate 
 
+todo: FTK scripting https://accessdata.com/product-download/windows-32bit-3.1.1/
+
+Hook Finder https://github.com/hasherezade/hook_finder
+
 
 other lists --
 
