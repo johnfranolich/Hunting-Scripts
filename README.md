@@ -27,7 +27,7 @@ List Kerberos Tickets https://gallery.technet.microsoft.com/scriptcenter/List-Al
 
 List local admins https://gallery.technet.microsoft.com/scriptcenter/ed4a0cb7-603c-488d-afeb-194b7a60f42f
 
-Get AD Trust Topology https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf
+Get AD Trust Topology https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf & https://github.com/WiredPulse/PowerShell/blob/master/Active_Directory/Get-DomainTrusts.ps1
 
 ADFS Security Audit Events Parser https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf
 
