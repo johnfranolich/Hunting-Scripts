@@ -156,6 +156,8 @@ todo: FTK scripting https://accessdata.com/product-download/windows-32bit-3.1.1/
 
 Hook Finder https://github.com/hasherezade/hook_finder
 
+Lateral Movement script https://securelist.com/happy-ir-in-the-new-year/83557/
+
 
 other lists --
 
