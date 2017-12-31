@@ -31,7 +31,7 @@ Get AD Trust Topology https://gallery.technet.microsoft.com/scriptcenter/ADFS-Se
 
 ADFS Security Audit Events Parser https://gallery.technet.microsoft.com/scriptcenter/ADFS-Security-Audit-Events-81c207cf
 
-Self Signign Certs https://gallery.technet.microsoft.com/scriptcenter/Get-AD-Trust-Topology-f8f2d1d7
+Self Signign Certs https://gallery.technet.microsoft.com/scriptcenter/Get-AD-Trust-Topology-f8f2d1d7 & http://cyberfibers.com/2017/11/hunting-self-signed-certificates/
 
 Encrypt/Decrypt files using AES encryption https://gallery.technet.microsoft.com/scriptcenter/EncryptDecrypt-files-use-65e7ae5d
 
@@ -157,6 +157,8 @@ todo: FTK scripting https://accessdata.com/product-download/windows-32bit-3.1.1/
 Hook Finder https://github.com/hasherezade/hook_finder
 
 Lateral Movement script https://securelist.com/happy-ir-in-the-new-year/83557/
+
+find dll injects http://cyberfibers.com/2017/11/525/
 
 
 other lists --
