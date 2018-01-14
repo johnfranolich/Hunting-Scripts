@@ -69,6 +69,8 @@ Detect PTH https://github.com/cyberark/ketshash
 
 Detect shadow admins https://github.com/cyberark/ACLight
 
+Find Exchange Mailboxes with Forwarding Addresses Enabled http://www.syspanda.com/index.php/2018/01/10/exchange-find-mailboxes-forwarding-addresses-enabled/
+
 
 Yara--
 
