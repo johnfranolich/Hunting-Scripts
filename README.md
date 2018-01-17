@@ -169,4 +169,6 @@ other lists --
 
 https://github.com/rshipp/awesome-malware-analysis
 
+https://github.com/0x4D31/awesome-threat-detection
+
 
