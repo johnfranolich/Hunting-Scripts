@@ -123,7 +123,13 @@ Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
 
-APT Sinmulator https://github.com/Neo23x0/APTSimulator
+APT Simulator https://github.com/Neo23x0/APTSimulator
+
+Inection Monkey - APT Simulator https://github.com/guardicore/monkey
+
+CALDERA automated adversary emulation system https://github.com/mitre/caldera
+
+APT3 Emulator https://attack.mitre.org/wiki/Adversary_Emulation_Plans
 
 PS to exe https://github.com/interference-security/PS2EXE
 
