@@ -123,6 +123,8 @@ Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
 
+APT Sinmulator https://github.com/Neo23x0/APTSimulator
+
 PS to exe https://github.com/interference-security/PS2EXE
 
 YARA signature to check for DEP and ASLR https://summitroute.com/blog/2017/07/24/yara_sigs_for_security_best_practices/
