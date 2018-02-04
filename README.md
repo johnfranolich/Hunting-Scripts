@@ -155,7 +155,7 @@ harden windows https://github.com/securitywithoutborders/hardentools/releases/ta
 
 Deception -- It is all about the buzz
 
-Emulate VM enviromnts https://github.com/adamkramer/rapid_env
+Emulate VM enviroments https://github.com/adamkramer/rapid_env
 
 test a sandox - PoC malware with good intentions https://github.com/LordNoteworthy/al-khaser
 
