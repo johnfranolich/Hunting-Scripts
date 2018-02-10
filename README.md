@@ -73,6 +73,7 @@ Detect shadow admins https://github.com/cyberark/ACLight
 
 Find Exchange Mailboxes with Forwarding Addresses Enabled http://www.syspanda.com/index.php/2018/01/10/exchange-find-mailboxes-forwarding-addresses-enabled/
 
+Get USB history https://gallery.technet.microsoft.com/scriptcenter/Get-USBHistory-707e43a3
 
 Yara--
 
