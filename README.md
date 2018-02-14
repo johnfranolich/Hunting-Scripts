@@ -94,6 +94,8 @@ Bin/API analysis including FN2Yara https://github.com/cmu-sei/pharos
 
 Python--
 
+Script to check for security bugs in smart contracts https://github.com/ConsenSys/mythril/blob/master/security_checks.md
+
 Script for malware analysis https://github.com/beenuar/Py-DarkC0de/blob/master/analyse_malware.py
 
 Make your own Volatility plug-in https://github.com/iAbadia/Volatility-Plugin-Tutorial
