@@ -75,6 +75,9 @@ Find Exchange Mailboxes with Forwarding Addresses Enabled http://www.syspanda.co
 
 Get USB history https://gallery.technet.microsoft.com/scriptcenter/Get-USBHistory-707e43a3
 
+ms17-010-Scanner https://github.com/vletoux/ms17-010-Scanner
+
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
