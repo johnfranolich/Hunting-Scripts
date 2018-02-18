@@ -125,6 +125,8 @@ Inspect PDFs https://github.com/jesparza/peepdf
 
 User simulation https://github.com/cmu-sei/usersim
 
+Find Peddelcheap in pcaps https://github.com/johnbergbom/PeddleCheap/blob/master/dp_decrypt.py
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
