@@ -129,6 +129,8 @@ Find Peddelcheap in pcaps https://github.com/johnbergbom/PeddleCheap/blob/master
 
 Python exe unpacker https://github.com/countercept/python-exe-unpacker
 
+RDP Bitmap Cache parser https://github.com/ANSSI-FR/bmc-tools
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
