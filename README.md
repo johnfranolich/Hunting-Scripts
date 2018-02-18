@@ -125,7 +125,9 @@ Inspect PDFs https://github.com/jesparza/peepdf
 
 User simulation https://github.com/cmu-sei/usersim
 
-Find Peddelcheap in pcaps https://github.com/johnbergbom/PeddleCheap/blob/master/dp_decrypt.py
+Find Peddelcheap in pcaps https://github.com/johnbergbom/PeddleCheap/blob/master/dp_decrypt.py (with samples)
+
+Python exe unpacker https://github.com/countercept/python-exe-unpacker
 
 Misc--
 
