@@ -77,6 +77,8 @@ Get USB history https://gallery.technet.microsoft.com/scriptcenter/Get-USBHistor
 
 ms17-010-Scanner https://github.com/vletoux/ms17-010-Scanner
 
+Find local priv escalation https://github.com/rasta-mouse/Sherlock/blob/master/Sherlock.ps1
+
 
 Yara--
 
