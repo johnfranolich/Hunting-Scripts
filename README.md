@@ -79,6 +79,8 @@ ms17-010-Scanner https://github.com/vletoux/ms17-010-Scanner
 
 Find local priv escalation https://github.com/rasta-mouse/Sherlock/blob/master/Sherlock.ps1
 
+Threat Hunting Reconnaissance Toolkit THRecon https://github.com/TonyPhipps/THRecon
+
 
 Yara--
 
