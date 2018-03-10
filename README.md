@@ -137,6 +137,8 @@ RDP Bitmap Cache parser https://github.com/ANSSI-FR/bmc-tools
 
 Mac OS IR Tool https://github.com/daguy666/Transit
 
+Tool for automatic list generation of known TOR and VPN exit nodes  https://github.com/uforia/exitgather
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
