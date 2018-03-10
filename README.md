@@ -81,6 +81,8 @@ Find local priv escalation https://github.com/rasta-mouse/Sherlock/blob/master/S
 
 Threat Hunting Reconnaissance Toolkit THRecon https://github.com/TonyPhipps/THRecon
 
+PoweSehll Defense https://github.com/Ben0xA/PowerShellDefense
+
 
 Yara--
 
