@@ -83,6 +83,8 @@ Threat Hunting Reconnaissance Toolkit THRecon https://github.com/TonyPhipps/THRe
 
 PoweSehll Defense https://github.com/Ben0xA/PowerShellDefense
 
+Extracts Windows Defender Exploit Guard Events from the 'Microsoft-Windows-Windows Defender/Operational event log https://demo.wd.microsoft.com/Content/getEGEvents.zip
+
 
 Yara--
 
