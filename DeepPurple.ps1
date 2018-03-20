@@ -1,6 +1,7 @@
 ﻿<#
 DeepPurple.ps1
 --------------
+** Credit to Eric Conrad for DeepBlue **
 
 John "Fran the Man" Franolich
 and his humble sidekick
