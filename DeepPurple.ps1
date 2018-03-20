@@ -5,7 +5,10 @@ DeepPurple.ps1
 John "Fran the Man" Franolich
 and his humble sidekick
 
-Note: Keep this in the same directory as:
+Notes: 
+1. To collect atifacts download and run hxxps://github.com/SekoiaLab/Fastir_Collector/releases 
+
+2. Keep this in the same directory as:
     DeepBlue.ps1
     whitelist.txt
     regex.txt
