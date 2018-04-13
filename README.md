@@ -3,6 +3,8 @@ A collection of hunting, blue team scripts and tools ; mostly others.
 
 PowerShell--
 
+Invoke-Adversary to test defenses https://github.com/MotiBa/Invoke-Adversary/tree/master
+
 Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/Kerberos-Golden-Ticket-b4814285 & https://github.com/spohara79/TGT---Golden-Silver-Ticket
 
 Skeleton Key scanner https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73
