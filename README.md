@@ -15,6 +15,8 @@ A PowerShell script to interact with the MITRE ATT&CK Framework via its own API 
 
 Mitigate internal recon by altering Net Session Enumeration https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b
 
+Hunting webshells on Microsoft Exchange Servers https://github.com/FixTheExchange/Invoke-ExchangeWebShellHunter
+
 Power Forensics https://github.com/Invoke-IR/PowerForensics
 
 PS IR https://github.com/mgreen27/Powershell-IR https://www.linkedin.com/pulse/invoke-liveresponse-matthew-green
