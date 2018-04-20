@@ -95,6 +95,8 @@ Audit script https://github.com/A-mIn3/WINspect
 
 User Simulator https://github.com/ubeeri/Invoke-UserSimulator
 
+Audit AD https://github.com/phillips321/adaudit
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
