@@ -99,6 +99,8 @@ Audit AD https://github.com/phillips321/adaudit
 
 Evil Maid detection https://pastebin.com/hAEHibHf
 
+SQli detection https://github.com/NetSPI/PowerUpSQL
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
