@@ -11,6 +11,8 @@ Skeleton Key scanner https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-2
 
 Detect ruler attacks in Exchange and DC logs https://sensepost.com/blog/2017/notruler-turning-offence-into-defence/ 
 
+Detect DCShadow attacks https://github.com/AlsidOfficial/UncoverDCShadow
+
 A PowerShell script to interact with the MITRE ATT&CK Framework via its own API  https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI
 
 Mitigate internal recon by altering Net Session Enumeration https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b
