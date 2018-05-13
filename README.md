@@ -103,6 +103,10 @@ Evil Maid detection https://pastebin.com/hAEHibHf
 
 SQli detection https://github.com/NetSPI/PowerUpSQL
 
+Check the carved memory file for presence of Meterpreter C2 https://github.com/countercept/memory-carving-scripts/blob/master/Get-MeterpreterC2.ps1
+
+Dump memory http://www.exploit-monday.com/2012/03/powershell-live-memory-analysis-tools.html#Dump-Memory
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
