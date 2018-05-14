@@ -107,6 +107,8 @@ Check the carved memory file for presence of Meterpreter C2 https://github.com/c
 
 Dump memory http://www.exploit-monday.com/2012/03/powershell-live-memory-analysis-tools.html#Dump-Memory
 
+Find vul GPOs https://github.com/gpoguy/GetVulnerableGPO
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
