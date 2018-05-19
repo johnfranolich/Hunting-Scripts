@@ -158,6 +158,8 @@ User simulation https://github.com/cmu-sei/usersim
 
 Find Peddelcheap in pcaps https://github.com/johnbergbom/PeddleCheap/blob/master/dp_decrypt.py (with samples)
 
+Find danderspritz https://github.com/fox-it/danderspritz-evtx
+
 Python exe unpacker https://github.com/countercept/python-exe-unpacker
 
 RDP Bitmap Cache parser https://github.com/ANSSI-FR/bmc-tools
