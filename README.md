@@ -109,6 +109,8 @@ Dump memory http://www.exploit-monday.com/2012/03/powershell-live-memory-analysi
 
 Find vul GPOs https://github.com/gpoguy/GetVulnerableGPO
 
+OAuth Hunting (Azure) https://github.com/dmb2168/OAuthHunting
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
