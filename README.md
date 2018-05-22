@@ -170,6 +170,8 @@ Mac OS IR Tool https://github.com/daguy666/Transit
 
 Tool for automatic list generation of known TOR and VPN exit nodes  https://github.com/uforia/exitgather
 
+parsing tool to discover potential SQL injection points https://github.com/RhinoSecurityLabs/SleuthQL
+
 Misc--
 
 Open source tools Netflix Security Team https://medium.com/netflix-techblog/a-brief-history-of-open-source-from-the-netflix-cloud-security-team-412b5d4f1e0c
