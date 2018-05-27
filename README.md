@@ -132,6 +132,8 @@ Python--
 
 Script to check for security bugs in smart contracts https://github.com/ConsenSys/mythril/blob/master/security_checks.md
 
+Ransoeare simulator https://gitlab.com/networkintelligence/inr/ransom_sim/tree/master
+
 Script for malware analysis https://github.com/beenuar/Py-DarkC0de/blob/master/analyse_malware.py
 
 Make your own Volatility plug-in https://github.com/iAbadia/Volatility-Plugin-Tutorial
