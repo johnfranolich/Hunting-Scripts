@@ -227,6 +227,10 @@ Lateral Movement script https://securelist.com/happy-ir-in-the-new-year/83557/
 
 find dll injects http://cyberfibers.com/2017/11/525/
 
+event subscription https://github.com/palantir/windows-event-forwarding
+
+Binary commandline executable to parse ETL files https://github.com/gcpartners/ETLParser
+
 
 other lists --
 
