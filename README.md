@@ -127,6 +127,8 @@ HEX to assembly https://haiderm.com/convert-hex-assembly-using-simple-python-scr
 
 Bin/API analysis including FN2Yara https://github.com/cmu-sei/pharos
 
+Find fake certs https://blog.nviso.be/2018/07/31/powershell-inside-a-certificate-part-1/
+
 
 Python--
 
