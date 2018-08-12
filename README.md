@@ -115,6 +115,8 @@ OAuth Hunting (Azure) https://github.com/dmb2168/OAuthHunting
 
 Test phish defenses by w/macros https://github.com/curi0usJack/luckystrike
 
+Discover Unquoted Service Paths that can be abused to escalate privs https://gist.github.com/Evilcry/ba70b8fa746ef7ae352d14bcaaf6bfbb
+
 Yara--
 
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
