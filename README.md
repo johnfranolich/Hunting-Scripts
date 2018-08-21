@@ -7,7 +7,7 @@ Timeline from memeory https://www.pigstye.net/forensics/volatility.html
 
 Invoke-Adversary to test defenses https://github.com/MotiBa/Invoke-Adversary/tree/master
 
-BAseline PEs https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e
+Baseline gold PEs https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e
 
 Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/Kerberos-Golden-Ticket-b4814285 & https://github.com/spohara79/TGT---Golden-Silver-Ticket
 
