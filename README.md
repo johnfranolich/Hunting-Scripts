@@ -27,6 +27,8 @@ Hunting webshells on Microsoft Exchange Servers https://github.com/FixTheExchang
 
 Power Forensics https://github.com/Invoke-IR/PowerForensics
 
+Mem pull https://github.com/n3l5/irMempull
+
 PS IR https://github.com/mgreen27/Powershell-IR https://www.linkedin.com/pulse/invoke-liveresponse-matthew-green
 
 DeepBlue CLI https://github.com/sans-blue-team/DeepBlueCLI
