@@ -142,6 +142,10 @@ Find fake certs https://blog.nviso.be/2018/07/31/powershell-inside-a-certificate
 
 Python--
 
+find malicous .net malware compile https://gist.github.com/countercept/7765ba05ad00255bcf6a4a26d7647f6e
+
+find doublepulsar https://github.com/countercept/doublepulsar-detection-script
+
 Script to check for security bugs in smart contracts https://github.com/ConsenSys/mythril/blob/master/security_checks.md
 
 Ransoeare simulator https://gitlab.com/networkintelligence/inr/ransom_sim/tree/master
@@ -185,6 +189,10 @@ Mac OS IR Tool https://github.com/daguy666/Transit
 Tool for automatic list generation of known TOR and VPN exit nodes  https://github.com/uforia/exitgather
 
 parsing tool to discover potential SQL injection points https://github.com/RhinoSecurityLabs/SleuthQL
+
+Go
+
+find websells (can use regular expressions) https://github.com/tstillz/webshell-scan
 
 Misc--
 
