@@ -3,6 +3,8 @@ A collection of hunting, blue team scripts and tools ; mostly others.
 
 PowerShell--
 
+Find Forms https://gist.github.com/staaldraad/0604788fbe974cd53ed59cc1e3185cce
+
 Detect rule attacks in windows events https://gist.github.com/staaldraad/a7de22afa69ec10f1ec7d995d2bd913c
 
 Timeline from memeory https://www.pigstye.net/forensics/volatility.html
