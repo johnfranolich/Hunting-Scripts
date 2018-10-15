@@ -13,6 +13,10 @@ Invoke-Adversary to test defenses https://github.com/MotiBa/Invoke-Adversary/tre
 
 Baseline gold PEs https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e
 
+Remove macros https://chentiangemalc.wordpress.com/2012/01/17/powershell-script-to-remove-office-macro-protection/
+
+PS to pcap https://www.nospaceships.com/2018/09/19/packet-capture-on-windows-without-drivers.html
+
 Find Kerberos Golden Tickets https://gallery.technet.microsoft.com/scriptcenter/Kerberos-Golden-Ticket-b4814285 & https://github.com/spohara79/TGT---Golden-Silver-Ticket
 
 Skeleton Key scanner https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73
