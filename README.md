@@ -3,6 +3,8 @@ A collection of hunting, blue team scripts and tools ; mostly others.
 
 PowerShell--
 
+fake sandbox https://github.com/Phoenix1747/fake-sandbox
+
 DevSec to detect PS TickUsage & Obfuscation, https://github.com/danielbohannon/DevSec-Defense https://www.x33fcon.com/archive/2018/slides/x33fcon18_DevSecDefense_DanielBohannon.pdf https://www.youtube.com/watch?v=QJe8xikf-iE
 
 Process Spawn Control suspends newly launched processes https://github.com/felixweyne/ProcessSpawnControl
