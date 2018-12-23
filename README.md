@@ -3,6 +3,8 @@ A collection of hunting, blue team scripts and tools ; mostly others.
 
 PowerShell--
 
+DevSec to detect PS TickUsage & Obfuscation, https://github.com/danielbohannon/DevSec-Defense https://www.x33fcon.com/archive/2018/slides/x33fcon18_DevSecDefense_DanielBohannon.pdf https://www.youtube.com/watch?v=QJe8xikf-iE
+
 Process Spawn Control suspends newly launched processes https://github.com/felixweyne/ProcessSpawnControl
 
 Find injected processes https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2
