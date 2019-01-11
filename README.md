@@ -139,6 +139,8 @@ Discover Unquoted Service Paths that can be abused to escalate privs https://gis
 
 Yara--
 
+Outlook ruler detetion https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html
+
 Signaturing an Authenticode anomaly with Yara https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/signaturing-an-authenticode-anomaly-with-yara/
 
 Loki https://github.com/Neo23x0/Loki 
