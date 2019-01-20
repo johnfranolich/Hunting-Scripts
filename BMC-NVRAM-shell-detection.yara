@@ -8,8 +8,8 @@
 	Copyright and related rights waived via https://creativecommons.org/licenses/by-nc-sa/4.0/
 */
 
-}
-rule NVRAM_shell {
+{
+rule NVRAM_shell 
 	meta:
 		description = "Baseboard Management Controller- NVRAM rule  - Generic Rule - possible script found in BMC zip file"
 		author = "John Franolich"
