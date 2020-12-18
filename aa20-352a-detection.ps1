@@ -1,6 +1,8 @@
-#Original https://gallery.technet.microsoft.com/scriptcenter/Audit-expiring-soon-Azure-60dbbbcf
-# https://us-cert.cisa.gov/ncas/alerts/aa20-352a 
-#Author Tweaks John Franolich and Jamie Gambetta 
+#Audit expiring soon Azure AD application credentials (keys/certificates) https://gallery.technet.microsoft.com/scriptcenter/Audit-expiring-soon-Azure-60dbbbcf
+#Alert (AA20-352A) https://us-cert.cisa.gov/ncas/alerts/aa20-352a 
+#Author tweaks John Franolich and Jamie Gambetta 
+#run from AZ CLI 
+
 Write-Host 'Gathering necessary information...'
 $applications = Get-AzADApplication
 $servicePrincipals = Get-AzADServicePrincipal
